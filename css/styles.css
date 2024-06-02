@@ -12,11 +12,11 @@
  */
 :root {
   /* CUSTOM VARIABLES */
-  --dominant-color: #e2c3e3;
-  --complimentary-color: #7b6190;
+  --dominant-color: #fee9ff;
+  --complimentary-color: #50759b;
   --accent-color: #54188f;
-  --dominant-color-rgb: 226, 195, 227;
-  --complimentary-color-rgb: 123, 97, 144;
+  --dominant-color-rgb: 254, 233, 255;
+  --complimentary-color-rgb: 80, 117, 155;
   --accent-color-rgb: 84, 24, 143;
 
   --bs-blue: #0d6efd;
