@@ -14,10 +14,17 @@
   /* CUSTOM VARIABLES 8f3de1 e18f3d 3de18f*/
   /* dbc1f5 e3cbb3 b3e3cb*/
   /* 54188f c3e3de*/
+<<<<<<< HEAD
   --dominant-color: #b3e3db;
   --complimentary-color: #4b8078;
   --accent-color: #54188f;
   --dominant-color-rgb: 179, 227, 219;
+=======
+  --dominant-color: #c1f5ec;
+  --complimentary-color: #4b8078;
+  --accent-color: #54188f;
+  --dominant-color-rgb: 193, 245, 236;
+>>>>>>> detached
   --complimentary-color-rgb: 75, 128, 120;
   --accent-color-rgb: 84, 24, 143;
 
